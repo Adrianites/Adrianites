@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 🎓 Currently studying Game Development in University<br>❤️ Unreal Engine, Unity, Raylib<br>🛠️ Current side projects:<br>      - Text Adventure Game<br>      - Blackboard Discord Bot<br>      - Unreal Assets Discord Bot<br> 𒉭   Berk Enjoyer<br>🐧 Arch User<br>🖥  Server Owner - 🦖 Pterodactyl Enjoyer<br>👾 Love playing games such as Dark Souls, Minecraft, Genshin, Terraria, GTA
+### 🎓 Currently studying Game Development in University<br>❤️ Unreal Engine, Unity, Raylib<br>🛠️ Current side projects:<br>      - Text Adventure Game<br>      - Blackboard Discord Bot<br>      - Unreal Assets Discord Bot<br> 𒉭   Berk Enjoyer<br> 🪛 PC Builder<br>🐧 Arch User<br>🖥  Server Owner - 🦖 Pterodactyl Enjoyer<br>👾 Love playing games such as Dark Souls, Minecraft, Genshin, Terraria, GTA
 
 
 ## 🌐 Socials:
@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adrianites&icon=10&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
