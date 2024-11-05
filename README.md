@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently studying Game Development in University<br>❤️ Unreal Engine, Unity, Raylib<br>🛠️ Current side projects:<br>- Text Adventure Game<br>- Blackboard Discord Bot<br>- Unreal Assets Discord Bot<br>𒉭 Berk Enjoyer<br>🪛 PC Builder<br>🐧 Arch User<br>🖥 Server Owner - 🦖 Pterodactyl Enjoyer<br>👾 Love playing games such as Dark Souls, Minecraft, Genshin, Terraria, GTA
+🎓 Currently studying Game Development in University<br>❤️ Unreal Engine, Unity, Raylib<br>🛠️ Current side projects:<br>- Text Adventure Game<br>- Portfolio Website<br>- Blackboard Discord Bot<br>- Unreal Assets Discord Bot<br>𒉭 Berk Enjoyer<br>🪛 PC Builder<br>🐧 Arch User<br>🖥 Server Owner - 🦖 Pterodactyl Enjoyer<br>👾 Love playing games such as Dark Souls, Minecraft, Genshin, Terraria, GTA
 
 
 ## 🌐 Socials:
